@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55366d83-e2d5-4ade-b8b8-565916b50720" name="Changes" comment="second commit">
+      <change beforePath="$PROJECT_DIR$/client/src/components/Calendar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Calendar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/HabitTracker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/HabitTracker.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/ProjectTask.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/ProjectTask.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/SidebarProjects.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/SidebarProjects.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Task.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Task.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/TaskContext.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/TaskContext.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/TaskModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/TaskModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/TimerContext.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/TimerContext.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ahmadsaghir&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ahmadsaghir/todo-app.git&quot;,
+    &quot;accountId&quot;: &quot;32289cd2-6ced-4592-810b-0b04c8c9b9b1&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2mWXHNGm0uMJHz6LxFJWHEBhJ9M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/ahmad/MERN Stack/task-management",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/snap/webstorm/423/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo"
+    ]
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/components/auth" />
+      <recent name="$PROJECT_DIR$/src/components/layout" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55366d83-e2d5-4ade-b8b8-565916b50720" name="Changes" comment="" />
+      <created>1727193218097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727193218097</updated>
+      <workItem from="1727193219300" duration="3003000" />
+      <workItem from="1727277255318" duration="3414000" />
+      <workItem from="1727288079855" duration="13796000" />
+      <workItem from="1727443007253" duration="11005000" />
+      <workItem from="1727530648697" duration="8538000" />
+      <workItem from="1727982522170" duration="1268000" />
+      <workItem from="1728304083821" duration="3187000" />
+      <workItem from="1728644279993" duration="254000" />
+      <workItem from="1729342966889" duration="14722000" />
+      <workItem from="1729492908005" duration="3703000" />
+      <workItem from="1729575983158" duration="25246000" />
+      <workItem from="1729617649706" duration="2673000" />
+      <workItem from="1729663369250" duration="22667000" />
+      <workItem from="1729755039877" duration="16869000" />
+      <workItem from="1730275575109" duration="6000" />
+      <workItem from="1733761671351" duration="5187000" />
+      <workItem from="1733942506715" duration="12734000" />
+      <workItem from="1734116122298" duration="5777000" />
+      <workItem from="1734289391355" duration="4924000" />
+      <workItem from="1734369226594" duration="3282000" />
+      <workItem from="1734372613176" duration="7476000" />
+      <workItem from="1734403488068" duration="3126000" />
+      <workItem from="1734439166451" duration="2635000" />
+      <workItem from="1734452113040" duration="742000" />
+      <workItem from="1734453298916" duration="7804000" />
+      <workItem from="1734527755444" duration="4526000" />
+      <workItem from="1734543357629" duration="8620000" />
+      <workItem from="1734571914824" duration="3144000" />
+      <workItem from="1734624128900" duration="7674000" />
+      <workItem from="1734727536506" duration="16770000" />
+      <workItem from="1734986742292" duration="4615000" />
+      <workItem from="1735073419235" duration="7418000" />
+      <workItem from="1735318948900" duration="41804000" />
+      <workItem from="1735424271061" duration="891000" />
+      <workItem from="1735425905183" duration="1731000" />
+      <workItem from="1735471136271" duration="7082000" />
+      <workItem from="1735480809169" duration="2619000" />
+      <workItem from="1735488086923" duration="3467000" />
+      <workItem from="1735493025828" duration="2701000" />
+      <workItem from="1735496038252" duration="4800000" />
+      <workItem from="1735562257759" duration="2185000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1733952865807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733952865807</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1735503312250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735503312250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
+</project>
